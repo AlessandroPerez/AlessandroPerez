@@ -13,7 +13,7 @@ Always learning — currently diving into QUIC
 ## 🌐 Socials
 [![Email](https://go-skill-icons.vercel.app/api/icons?theme=light&i=gmail)](mailto:perezalessandro97@gmail.com)
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?theme=light&i=linkedin)](https://www.linkedin.com/in/alessandro-perez-084118301)
-[![Bluesky](https://go-skill-icons.vercel.app/api/icons?&i=bluesky)](https://bsky.app/tenko00000.bsky.social)
+[![Bluesky](https://go-skill-icons.vercel.app/api/icons?&i=bluesky)](https://bsky.app/profile/tenko00000.bsky.social)
 
 ## 📄 Resume
 
