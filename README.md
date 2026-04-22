@@ -1,10 +1,10 @@
 ## 👋🏻 Hi, I'm Alessandro
 CS master’s student into cybersecurity and cryptography.
 Passionate about secure systems, CTF challenges, and cryptographic protocols.
-Always learning — currently diving into Zero Knowledge Proofs
+Always learning — currently diving into zero-knowledge proof
 
 ## 📚 Education
-[2023 - 2025] Computer Science - University of Trento<br>
+[2023 - 2025] Computer Science - University of Trento
 [2017 - 2023] Computer Science - University of Trento
 
 ## 💻 Tech Stack
